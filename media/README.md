@@ -19,5 +19,3 @@ This directory contains image assets used in the JavaFX game.
 - **player.png**  
   The sprite representing the player character, who moves around the canvas and pushes boxes.
 
-These assets are crucial for the visual representation of game elements and contribute to the overall gaming experience.
-
